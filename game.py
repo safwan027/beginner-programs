@@ -39,4 +39,7 @@ if answer == "barca":
 elif answer == "real":
     print("Only barca fans assemble here, real madrid supporters better leave....ha ha ha")
 else:
-    print("Type valid option.")
+    print("Type valid option.")    
+
+
+#safwan nasar
